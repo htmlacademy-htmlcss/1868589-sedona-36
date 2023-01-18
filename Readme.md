@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 - Студент: [Максим Спиридонов](https://up.htmlacademy.ru/htmlcss/36/user/1868589).
-- Наставник: `Виктор Рыбаков`.
+- Наставник: `Виктор Рыбаков`(https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
